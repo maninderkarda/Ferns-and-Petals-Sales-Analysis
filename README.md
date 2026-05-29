@@ -155,7 +155,7 @@ ferns-petals-sales-analysis-dashboard/
 ├── Screenshots/
 │   └── FNP_Sales_Dashboard.png
 │
-├── Dataset/
+└── Dataset/
     └── FNP_Sales_Data.xlsx
 
 ```
